@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "",
   "SCAN_LINK": "https://polygonscan.com/token/",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 1000,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.025,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 570000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "SHOW_BACKGROUND": true
