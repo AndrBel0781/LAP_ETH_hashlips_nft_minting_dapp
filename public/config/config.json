@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "",
-  "SCAN_LINK": "https://polygonscan.com/token/",
+  "CONTRACT_ADDRESS": "0xdC5239A760CE030b422A8b55219386140Ad55DAe",
+  "SCAN_LINK": "https://polygonscan.com/token/0xdc5239a760ce030b422a8b55219386140ad55dae",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
-  "NFT_NAME": "LunApuPia NFT ETH",
-  "SYMBOL": "LAP",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.025,
+  "NFT_NAME": "LunApuPia NFT",
+  "SYMBOL": "LAPNFT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 1040000000000000,
+  "DISPLAY_COST": 0.0015,
   "GAS_LIMIT": 570000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lunapupia-nft",
   "SHOW_BACKGROUND": true
 }
