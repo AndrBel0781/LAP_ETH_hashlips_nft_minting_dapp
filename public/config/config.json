@@ -10,7 +10,7 @@
   "SYMBOL": "LAPNFT",
   "MAX_SUPPLY": 2000,
   "WEI_COST": 1040000000000000,
-  "DISPLAY_COST": 0.0015,
+  "DISPLAY_COST": 1.95,
   "GAS_LIMIT": 570000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/lunapupia-nft",
